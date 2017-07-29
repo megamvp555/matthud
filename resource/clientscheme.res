@@ -3054,6 +3054,69 @@ Scheme
 				"antialias" "1"
 			}
 		}
+			RobotoBC12
+		{
+			"1"
+			{
+				"name"		"Roboto Bold Condensed"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+			RobotoBC16
+		{
+			"1"
+			{
+				"name"		"Roboto Bold Condensed"
+				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
+			RobotoBC24
+		{
+			"1"
+			{
+				"name"		"Roboto Bold Condensed"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+			RobotoBC32
+		{
+			"1"
+			{
+				"name"		"Roboto Bold Condensed"
+				"tall"		"32"
+				"antialias"	"1"
+			}
+		}
+			RobotoBC36
+		{
+			"1"
+			{
+				"name"		"Roboto Bold Condensed"
+				"tall"		"36"
+				"antialias"	"1"
+			}
+		}
+			RobotoBC48
+		{
+			"1"
+			{
+				"name"		"Roboto Bold Condensed"
+				"tall"		"48"
+				"antialias"	"1"
+			}
+		}
+			RobotoBC56
+		{
+			"1"
+			{
+				"name"		"Roboto Bold Condensed"
+				"tall"		"56"
+				"antialias"	"1"
+			}
+		}
 	}
 	
 	//These are the fonts for matthud
