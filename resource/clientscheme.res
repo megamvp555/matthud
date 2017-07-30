@@ -198,6 +198,7 @@ Scheme
 		"UpgradeDisabledBg"		"79 77 68 255"
 		//Matt's Colors
 		"MattGreen"	"0 255 50 255"
+		"MattPurple" "255 0 255 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -3099,6 +3100,15 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+			RobotoBC40
+		{
+			"1"
+			{
+				"name"		"Roboto Bold Condensed"
+				"tall" 		"40"
+				"antialias" "1"
+			}
+		}
 			RobotoBC48
 		{
 			"1"
@@ -5676,6 +5686,11 @@ Scheme
 		{
 			"font" "resource/fonts/Gravity-UltraLight.otf"
 			"name" "Gravity UltraLight"
+		}
+		"13"
+		{
+			"font" "resource/fonts/Roboto-BoldCondensed.ttf"
+			"name" "Roboto Bold Condensed"
 		}
 	}
 }

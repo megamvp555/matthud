@@ -9,14 +9,14 @@
 	// used for casual
 	"QuickplayButton"
 	{
-		"label" "Casual" 
+		"label" "fun gamee" 
 		"command" "play_casual"
 		"subimage" ""
 		"OnlyAtMenu" "1"
 	}
 	"QuickplayChangeButton"
 	{
-		"label" "Casual"
+		"label" "fun gamee"
 		"command" "play_casual"
 		"subimage" ""
 		"OnlyInGame" "1"

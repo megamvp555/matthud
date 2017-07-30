@@ -381,7 +381,7 @@
 		"fieldName"		"TFCharacterImage"
 		"xpos"			"c-250"
 		"ypos"			"-80"
-		"zpos"			"1"
+		"zpos"			"-1"
 		"wide"			"600"
 		"tall"			"600"
 		"visible"		"1"
